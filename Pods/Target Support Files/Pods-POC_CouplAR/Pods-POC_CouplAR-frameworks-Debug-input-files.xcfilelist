@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-POC_CouplAR/Pods-POC_CouplAR-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GCDWebServer/GCDWebServer.framework
+${BUILT_PRODUCTS_DIR}/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.framework
